@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-2ihc36.saturadar88.online/sitemap.xml
